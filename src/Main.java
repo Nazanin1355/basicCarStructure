@@ -5,4 +5,10 @@ public class Main {
         audi.model="A3";
         audi.power="5000cc";
 
-}}
+        Engin X= new Engin();
+        X.cylinder= "8";
+        X.size="1234cc";
+        X.weight="6453k";
+
+
+    }}
